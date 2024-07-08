@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Ensure the API key is set as an environment variable
-api_key = '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'
+api_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 
 # Initialize the OpenAI client
